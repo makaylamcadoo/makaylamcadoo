@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My GitHub is a work in progress, but welcome! :)                                                                                                           
+My GitHub is a current work in progress, but welcome! :)                                                                                                           
 I am a current student at Auburn University pursuing my undergrad in Computer Science.
 
 - 🌱 I’m currently learning: Software Construction (COMP 2710)
