@@ -11,7 +11,7 @@ I am a current student at Auburn University pursuing my undergrad in Computer Sc
 - 😄 Pronouns: She/Her
  
 Courses I have taken!                                                                                                                                       
-[COMP 1210] -> Fundamentals of Computing                                                                                                                   
+makaylamcadoo/COMP-1210-Fundamentals-of-Computing/ -> Fundamentals of Computing                                                                                                                   
 [COMP 2210] -> Fundamentals of Computing II                                                                                                                 
 [COMP 2710] -> Software Construction      
 
