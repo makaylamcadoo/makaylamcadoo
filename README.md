@@ -5,8 +5,8 @@ I am a current student at Auburn University pursuing my undergrad in Computer Sc
 - 🌱 I’m currently learning: Software Construction (COMP 2710)
 -  🔭 I’m currently working on ... STAY TUNED!
 
-- 📫 How to reach me: Cell: 706-832-6962
-                      Email: makaylamcadoo@yahoo.com
+- 📫 How to reach me: Cell: 706-832-6962                                                                                                                   
+                      Email: makaylamcadoo@yahoo.com                                                                                                       
                       School Email: mdm0114@auburn.edu
 - 😄 Pronouns: She/Her
  
