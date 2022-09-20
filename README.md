@@ -8,7 +8,7 @@ I am a current student at Auburn University pursuing my undergrad in Computer Sc
                       Email: makaylamcadoo@yahoo.com
                       School Email: mdm0114@auburn.edu
 - 😄 Pronouns: She/Her
-
+ 
 Courses I have taken!
 [COMP 1210] -> Fundamentals of Computing
 [COMP 2210] -> Fundamentals of Computing II
