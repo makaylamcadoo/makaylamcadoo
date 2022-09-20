@@ -12,7 +12,7 @@ I am a current student at Auburn University pursuing my undergrad in Computer Sc
  
 Courses I have taken!                                                                                                                                       
 [COMP 1210](https://github.com/makaylamcadoo/COMP-1210-Fundamentals-of-Computing) -> Fundamentals of Computing                                             
-[COMP 1220](https://github.com/makaylamcadoo/COMP-2210-Fundamental-of-Computing-II) -> Fundamentals of Computing II                                         
+[COMP 2210](https://github.com/makaylamcadoo/COMP-2210-Fundamental-of-Computing-II) -> Fundamentals of Computing II                                         
 [COMP 2710](https://github.com/makaylamcadoo/COMP2710-Software-Construction) -> Software Construction (Currently)     
 
 <!--
